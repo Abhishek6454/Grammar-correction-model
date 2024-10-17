@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (if you are using one)
+venv/
+env/
+
+# Ignore the folder with your model (you can upload it separately if needed)
+t5-grammar-correction-model/
+
+# Ignore system files (these are created by your computer and not needed on GitHub)
+.DS_Store
+
+# Ignore log files or other temporary files
+*.log
